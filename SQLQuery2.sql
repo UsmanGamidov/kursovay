@@ -1,0 +1,1 @@
+﻿INSERT INTO Turi (FIO_zakazchika, opisanie_roboti, price, date, tyr_operator) VALUES ('Gamidov', 'nechto ne cdelal', '9999', '07/07/2005', 'Giga')
